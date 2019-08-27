@@ -27,4 +27,5 @@ Fatality Data:
 ## Contact me
 
 Dian Zhang dzhang@gatehousemedia.com
+
 [Twitter](https://twitter.com/dian_zhang_)
